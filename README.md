@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @I-n-o-k
-- 👀 I’m 17 y.o
+# <p align="center"> Hi there 👋, I'm I-n-o-k </p>
 
-<!---
-I-n-o-k/I-n-o-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[<p align="center">![Deivid's github stats](https://github-readme-stats.vercel.app/api?username=I-n-o-k&show_icons=true&include_all_commits=false&bg_color=90,29ABE2,4F00BC&title_color=fff&text_color=fff&icon_color=00FFFF&border_color=00FFFF&&border_radius=20&count_private=true)</p>](https://github.com/Deivid21)
